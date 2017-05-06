@@ -1,1 +1,7 @@
-# Test-Project
+# Test Project
+
+* Practice
+* Enhance
+* Develop
+
+~~Joke ra diay... hahahaha~~
