@@ -534,4 +534,6 @@ footer hr {
   .mid-bottom-wrapper1 ul li:nth-child(2) {margin-left: 10px;}
   .footers ul {margin: 0 20px; display: flex; flex-wrap: wrap;}
   .copyright {margin: 0 20px;}
+  .foot-links ul {margin-top: -30px;}
+
 }
