@@ -28,12 +28,12 @@ html {
   color: #fff;
 }
 
-.glyphicon:hover, .glyphicon-menu-hamburger:hover, .toggleNav:hover {
+.glyphicon:hover, .glyphicon-menu-hamburger:hover, .toggleNav:hover, .toggleNav:focus {
   text-decoration: none;
   color: #fff;
 }
 
-.menu .open, .menu .open:visited {
+.menu .open, .menu .open:focus {
   color: #fff;
   text-decoration: none;
 }
